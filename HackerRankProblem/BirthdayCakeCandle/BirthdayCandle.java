@@ -6,8 +6,6 @@
 
 
 
-
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -71,3 +69,4 @@ public class BirthdayCandle {
         bufferedWriter.close();
     }
 }
+
