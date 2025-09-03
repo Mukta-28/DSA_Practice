@@ -4,8 +4,6 @@
 //candles=[4,4,2,3]
 //The tallest candles are 4 units high. There are 2 candles with this height, so the function should return 2.
 
-
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -69,4 +67,5 @@ public class BirthdayCandle {
         bufferedWriter.close();
     }
 }
+
 
