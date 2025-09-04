@@ -13,4 +13,5 @@ class SumArray{
 		  System.out.println(sum);
 		  
 	  }
+
 }
